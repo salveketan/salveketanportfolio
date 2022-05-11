@@ -48,7 +48,13 @@
   margin: 0 1rem;
   transition: transform 0.5s;
 }
-
+.name{
+  color: rgb(233, 66, 66);
+  font-family: 'Dancing Script', cursive;
+}
+.title{
+  color: rgb(231, 91, 91);
+}
 .landing--social:hover {
   transform: scale(1.2);
 }

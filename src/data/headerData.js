@@ -4,7 +4,7 @@ import ketan from "../assets/png/ketan.png"
 export const headerData = {
   name: 'Ketan Salve',
   title: "A Full Stack Web Developer",
-  desciption:"Life is 10% what happens to us and 90% how we react to it.",
+  desciption:"The function of a good software is to make the complex appear to be simple..",
   image: ketan,
   resumePdf: "https://drive.google.com/file/d/1FeC7x7-Epp7vlf8HRfT2IlMRRruDUUru/view?usp=sharing"
 }

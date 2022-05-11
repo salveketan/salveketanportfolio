@@ -8,6 +8,7 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
 
+
 import {
     FaTwitter,
     FaLinkedin,
@@ -64,6 +65,8 @@ function Landing() {
             },
         },
     }));
+
+  
 
     const classes = useStyles();
 
@@ -159,9 +162,9 @@ function Landing() {
                         className='lcr--content'
                         style={{ color: theme.tertiary }}
                     >
-                        <h6>{headerData.title}</h6>
-                        <h1>{headerData.name}</h1>
-                        <p>{headerData.desciption}</p>
+                        <h1 className='name'>{headerData.name}</h1>
+                        <h6 className='title'>{headerData.title}</h6>
+                        <p className='description'>{headerData.desciption}</p>
 
                         <div className='lcr-buttonContainer'>
                             {headerData.resumePdf && (
