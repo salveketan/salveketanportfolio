@@ -1,4 +1,5 @@
 import todo from "../assets/png/todo.png";
+import KFC from "../assets/png/KFC.png";
 // import codecov from "../assets/png/codecov.png";
 // import makemytrip from "../assets/png/makemytrip.png";
 export const projectsData = [
@@ -34,6 +35,22 @@ export const projectsData = [
   },
   {
     id: 3,
+    projectName: 'KFC-Clone',
+    projectDesc: [
+      `A web application which is build using MERN`,
+      [
+        "You can add Product to cart, Sing-Up and Log-in",
+        "User Authentication, Chakra-UI"
+      ],
+    ],
+    tags: ['HTML', 'CSS', 'JavaScript', 'Express', 'MongoDB', "Node js"],
+    code: 'https://github.com/salveketan/KFCproject',
+    demo: 'https://kfc-project-ketan.vercel.app/',
+    image: KFC,
+  },
+
+  {
+    id: 4,
     projectName: 'REACT - TODO LIST',
     projectDesc: [
       `A web application which is build using react.`,
@@ -46,8 +63,7 @@ export const projectsData = [
     code: 'https://github.com/salveketan/unit-5/tree/main/spirint%202/todo',
     demo: 'https://masai-react-todo.netlify.app',
     image: todo,
-  },
-
+  }
 ];
 
 // Do not remove any fields.
