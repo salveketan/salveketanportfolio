@@ -1,8 +1,8 @@
 export const aboutData = {
   title: "Who I am",
   description1:
-    "Hello! My name is Ketan Salve. I'm an aspiring web developer based in India.",
+    "Hello! My name is Ketan Salve. I'm a Full Stack Web Developer based in India.",
   description2:
-    "Driven by ambition and fuelled by determination, I am an emerging full stack web developer with a creative interest to build attractive websites. Shaped and moulded by Masai's immersive curriculum, I specialized in MERN stack and now willing to work on and learn from meaningful projects.",
+    "Hello! I'm Ketan, a skilled web developer who enjoys designing digital experiences that are both efficient and user-friendly. I have a strong background in full-stack web development, allowing me to work on website frontends and backends alike. I've been fortunate to participate in several projects over time and am always seeking new chances to expand my knowledge. Thank you for visiting.",
   image: 2,
 };
