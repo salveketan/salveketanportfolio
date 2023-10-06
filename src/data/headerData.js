@@ -6,7 +6,7 @@ export const headerData = {
   title: "A Full Stack Web Developer",
   desciption:"The function of a good software is to make the complex appear to be simple..",
   image: ketan,
-  resumePdf: "https://drive.google.com/file/d/1FeC7x7-Epp7vlf8HRfT2IlMRRruDUUru/view?usp=sharing"
+  resumePdf: "https://drive.google.com/file/d/1mH1EizmKT1FbgWKOmq2Rov2CDUNU7b0s/view?usp=drive_link"
 }
 
 
